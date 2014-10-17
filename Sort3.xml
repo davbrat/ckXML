@@ -1,0 +1,16 @@
+<root>
+<fruits>all fruits
+<fruit type="blackberry" color="black" qty="2" >1</fruit>
+<apples>sub:apples
+<apple  type="granny smith" color="red" qty="1" >2</apple>
+<apple  type="gala" color="red" qty="5" >3</apple>
+<apple  type="fuji" color="red" qty="7" >4</apple>
+<apple  type="mcintosh" color="red" qty="10" >5</apple>
+<apple  type="honeycrisp" color="red" qty="3" >6</apple>
+</apples>
+<fruit  type="orange" color="orange" qty="9" >7</fruit>
+<fruit  type="blueberry" color="blue" qty="4" >8</fruit>
+<fruit  type="banana" color="yellow" qty="6" >9</fruit>
+<fruit  type="pear" color="green" qty="8" >10</fruit>
+</fruits>
+</root>

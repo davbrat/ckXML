@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# Clarion 2.1.0.2447
+Project("{12B76EC0-1D7B-4FA7-A7D0-C524288B48A1}") = "Pretty_XML", "Pretty_XML.cwproj", "{04C99B29-E580-4925-8CCC-2B9C07F80045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04C99B29-E580-4925-8CCC-2B9C07F80045}.Debug|Win32.Build.0 = Debug|Win32
+		{04C99B29-E580-4925-8CCC-2B9C07F80045}.Debug|Win32.ActiveCfg = Debug|Win32
+		{04C99B29-E580-4925-8CCC-2B9C07F80045}.Release|Win32.Build.0 = Release|Win32
+		{04C99B29-E580-4925-8CCC-2B9C07F80045}.Release|Win32.ActiveCfg = Release|Win32
+	EndGlobalSection
+EndGlobal
